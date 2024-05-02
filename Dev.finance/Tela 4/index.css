@@ -1,0 +1,236 @@
+.desktop-4-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #2d4a22;
+  width: 1440px;
+  height: 254px;
+}
+.span {
+  color: var(--color-forestgreen);
+}
+.devfinance1 {
+  position: absolute;
+  height: 98.81%;
+  width: 86.12%;
+  top: 1.11%;
+  left: 6.66%;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+  display: inline-block;
+  transform: rotate(-0.1deg);
+  transform-origin: 0 0;
+}
+.devfinance {
+  position: absolute;
+  top: 62px;
+  left: 597px;
+  width: 263px;
+  height: 42px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.devfinance3 {
+  position: absolute;
+  height: 98.86%;
+  width: 86.11%;
+  top: 1.11%;
+  left: 6.66%;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+  display: inline-block;
+  transform: rotate(-0.1deg);
+  transform-origin: 0 0;
+}
+.devfinance2 {
+  position: absolute;
+  top: 1526px;
+  left: 594px;
+  width: 262px;
+  height: 44px;
+  color: var(--color-white);
+}
+.desktop-4-item {
+  position: absolute;
+  top: 114px;
+  left: 585px;
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  object-fit: cover;
+}
+.foto-de-perfil {
+  position: absolute;
+  top: 412px;
+  left: 623px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.08em;
+  line-height: 36px;
+}
+.editar-1-icon {
+  position: absolute;
+  top: 412px;
+  left: 808px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.desktop-4-inner {
+  position: absolute;
+  top: 488px;
+  left: 392px;
+  box-shadow: 0 4px 100px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: var(--color-white);
+  border: 1px solid #e1e1e1;
+  box-sizing: border-box;
+  width: 671px;
+  height: 834px;
+}
+.dados-da-conta,
+.gmailcom,
+.masculino,
+.no-informar {
+  position: absolute;
+  top: 1027px;
+  left: 437px;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+}
+.dados-da-conta,
+.masculino,
+.no-informar {
+  top: 891px;
+  left: 919px;
+  font-size: var(--font-size-base);
+}
+.dados-da-conta,
+.masculino {
+  left: 674px;
+}
+.dados-da-conta {
+  top: 524px;
+  left: 419px;
+  font-size: var(--font-size-5xl);
+}
+.desktop-4-child1,
+.desktop-4-child2,
+.rectangle-div {
+  position: absolute;
+  top: 620px;
+  left: 419px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-gray);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 598px;
+  height: 64px;
+}
+.desktop-4-child1,
+.desktop-4-child2 {
+  top: 739px;
+}
+.desktop-4-child2 {
+  top: 1011px;
+}
+.e-mail {
+  position: absolute;
+  top: 967px;
+  left: 412px;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+}
+.apelido,
+.gnero,
+.lucas-andre,
+.lucas-andre1,
+.nome-completo {
+  position: absolute;
+  top: 584px;
+  left: 419px;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+}
+.apelido,
+.gnero,
+.lucas-andre,
+.lucas-andre1 {
+  top: 634px;
+  left: 437px;
+}
+.apelido,
+.gnero,
+.lucas-andre1 {
+  top: 753px;
+}
+.apelido,
+.gnero {
+  top: 703px;
+  left: 419px;
+}
+.gnero {
+  top: 846px;
+}
+.desktop-4-child3,
+.desktop-4-child4,
+.ellipse-div {
+  position: absolute;
+  top: 896px;
+  left: 419px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 26px;
+  height: 26px;
+}
+.desktop-4-child3,
+.desktop-4-child4 {
+  left: 636px;
+}
+.desktop-4-child4 {
+  left: 881px;
+}
+.feminino,
+.verificado {
+  position: absolute;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+}
+.feminino {
+  top: 891px;
+  left: 457px;
+  font-size: var(--font-size-base);
+}
+.verificado {
+  top: 1027px;
+  left: 856px;
+  color: var(--color-forestgreen);
+}
+.line-div {
+  position: absolute;
+  top: 1170.96px;
+  left: 418.5px;
+  border-top: 1px solid #b5b5b5;
+  box-sizing: border-box;
+  width: 599px;
+  height: 1px;
+}
+.voltar {
+  position: absolute;
+  top: 1216px;
+  left: 686px;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background-color: #d3d3d3;
+  height: 1605px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

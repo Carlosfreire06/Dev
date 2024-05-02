@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+  --font-size-5xl: 24px;
+  --font-size-3xs: 10px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-silver: #b5b5b5;
+  --color-gainsboro-100: #d9d9d9;
+  --color-forestgreen: #49aa26;
+}

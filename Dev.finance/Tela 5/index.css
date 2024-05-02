@@ -1,0 +1,259 @@
+.desktop-5-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #2d4a22;
+  width: 1440px;
+  height: 254px;
+}
+.span {
+  color: var(--color-forestgreen);
+}
+.devfinance1 {
+  position: absolute;
+  height: 98.86%;
+  width: 86.11%;
+  top: 1.11%;
+  left: 6.66%;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+  display: inline-block;
+  transform: rotate(-0.1deg);
+  transform-origin: 0 0;
+}
+.devfinance,
+.devfinance2 {
+  position: absolute;
+  top: 62px;
+  left: 597px;
+  width: 262px;
+  height: 44px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.devfinance2 {
+  top: 1206px;
+  left: 588px;
+  font-size: var(--font-size-xl);
+}
+.desktop-5-item {
+  position: absolute;
+  top: 172px;
+  left: 464px;
+  box-shadow: 0 4px 100px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+  background-color: var(--color-white);
+  border: 1px solid #e1e1e1;
+  box-sizing: border-box;
+  width: 512px;
+  height: 982px;
+}
+.conta,
+.escolha-uma-senha {
+  position: absolute;
+  letter-spacing: 0.08em;
+}
+.escolha-uma-senha {
+  top: 853px;
+  left: 498px;
+  font-size: 8px;
+  line-height: 13px;
+  color: var(--color-silver);
+  text-align: left;
+  display: inline-block;
+  width: 365px;
+  height: 25px;
+}
+.conta {
+  top: 301px;
+  left: 536px;
+  font-size: var(--font-size-5xl);
+  line-height: 36px;
+}
+.comunicaes {
+  top: 218px;
+  left: 594px;
+  font-size: var(--font-size-13xl);
+}
+.boas-vindas-e,
+.comunicaes,
+.e-mail,
+.saiba-quando-tem {
+  position: absolute;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+}
+.e-mail {
+  top: 337px;
+  left: 845px;
+  font-size: 15px;
+}
+.boas-vindas-e,
+.saiba-quando-tem {
+  top: 384px;
+  left: 498px;
+}
+.saiba-quando-tem {
+  top: 407px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-silver);
+}
+.verificar-1-icon,
+.verificar-2-icon,
+.verificar-3-icon {
+  position: absolute;
+  top: 415px;
+  left: 861px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.verificar-2-icon,
+.verificar-3-icon {
+  top: 474px;
+}
+.verificar-3-icon {
+  top: 525px;
+}
+.informaes-sobre-a,
+.segurana {
+  position: absolute;
+  top: 443px;
+  left: 498px;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+}
+.informaes-sobre-a {
+  top: 466px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-silver);
+}
+.wallet {
+  top: 494px;
+  left: 498px;
+}
+.informaes-sobre-a1,
+.novidades,
+.novidades-do-que,
+.wallet {
+  position: absolute;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+}
+.informaes-sobre-a1 {
+  top: 517px;
+  left: 510px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-silver);
+}
+.novidades,
+.novidades-do-que {
+  top: 553px;
+  left: 498px;
+}
+.novidades-do-que {
+  top: 576px;
+  left: 497px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-silver);
+}
+.desktop-5-inner,
+.rectangle-div {
+  position: absolute;
+  top: 584px;
+  left: 861px;
+  background-color: var(--color-gainsboro-100);
+  width: 20px;
+  height: 20px;
+}
+.rectangle-div {
+  top: 635px;
+}
+.pesquisa,
+.queremos-ouvir-voc {
+  position: absolute;
+  top: 604px;
+  left: 498px;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+}
+.queremos-ouvir-voc {
+  top: 627px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-silver);
+}
+.escudo-1-icon {
+  position: absolute;
+  top: 745px;
+  left: 498px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.desktop-5-child1,
+.line-div {
+  position: absolute;
+  top: 706.5px;
+  left: 527.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 380px;
+  height: 1px;
+}
+.desktop-5-child1 {
+  top: 1010.5px;
+}
+.alterao-de-senha,
+.segurana1 {
+  position: absolute;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+}
+.segurana1 {
+  top: 744px;
+  left: 544px;
+  font-size: var(--font-size-5xl);
+}
+.alterao-de-senha {
+  top: 817px;
+  left: 498px;
+}
+.desktop-5-child2 {
+  position: absolute;
+  top: 916px;
+  left: 591px;
+  border-radius: 40px;
+  background-color: #ff782d;
+  width: 262px;
+  height: 42px;
+}
+.alterar-senha,
+.voltar {
+  position: absolute;
+  letter-spacing: 0.08em;
+  line-height: 36px;
+}
+.alterar-senha {
+  top: 919px;
+  left: 669px;
+  color: var(--color-white);
+}
+.voltar {
+  top: 1056px;
+  left: 688px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 64px;
+  height: 36px;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: #d3d3d3;
+  height: 1296px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
